@@ -2,7 +2,7 @@
   "name": "company-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Proly1st.github.io/react-landing/",
+  "homepage": "https://proly1st.github.io/react-landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,6 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
+    "babel-plugin-module-resolver": "^5.0.0",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1",
     "sass": "^1.74.1"
